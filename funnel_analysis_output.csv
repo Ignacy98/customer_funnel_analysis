@@ -1,0 +1,5 @@
+﻿"index","step","num_users","percent_users","percent_drop_off"
+"0","01. Browse","10000","100",""
+"1","02. Add to Cart","6949","69.49","30.51"
+"2","03. Checkout","3456","34.56","50.27"
+"3","04. Purchase","1004","10.04","70.95"
